@@ -1,4 +1,4 @@
-![Joyccino's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyccino&count_private=true)
+![Joyccino's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyccino&count_private=true&show_icons=true)
 
 [![Joyccino's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joyccino)](https://github.com/joyccino/github-readme-stats)
 
