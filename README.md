@@ -1,6 +1,6 @@
 ![Joyccino's GitHub stats](https://github-readme-stats.vercel.app/api?username=joyccino&count_private=true&show_icons=true)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joyccino)](https://solved.ac/joyccino/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rlatngus1691)](https://solved.ac/rlatngus1691/)
 
 <!--
 **joyccino/joyccino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
