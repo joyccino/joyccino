@@ -2,7 +2,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joy2moon4u)](https://solved.ac/joy2moon4u/)
 
-출처: https://soo-vely-dev.tistory.com/159 [soo_vely의 개발로그:티스토리]
 <!--
 **joyccino/joyccino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
