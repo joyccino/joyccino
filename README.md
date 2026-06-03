@@ -35,9 +35,16 @@ My work explores how digital and computational approaches can support clinically
 
 ### GitHub Activity
 
+
 <p align="center">
-  <img src="https://stats.pphat.top/badges?username=joyccino&name=repositories,total-stars,total-commits,total-pull-requests,total-issues,total-joined-years&theme=galaxy,aurora,ocean&effect=wave&column=3&size=medium&p=10" />
+  <img
+    src="https://stats.pphat.top/stats?username=joyccino&theme=tokyonight&avatar_mode=radar&custom_title=Joycelyn%27s%20GitHub%20Stats&data_border_style=frame&data_border_frame=out&show_icons=true"
+    alt="Joycelyn's GitHub Radar"
+    width="820"
+  />
 </p>
+
+
 
 <p align="center">
   <img src="https://stats.pphat.top/graph?username=joyccino&animate=wave&theme=aurora" />
