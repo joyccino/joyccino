@@ -25,16 +25,24 @@ My work explores how digital and computational approaches can support clinically
 
 ---
 
-### GitHub Stats
+### Tech Stack
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=joyccino&theme=tokyonight" />
+  <img src="https://stats.pphat.top/icons?name=python,r,react,firebase,typescript,javascript,github&columns=7&size=medium&effect=glow" />
+</p>
+
+---
+
+### GitHub Activity
+
+<p align="center">
+  <img src="https://stats.pphat.top/badges?username=joyccino&name=repositories,total-stars,total-commits,total-pull-requests,total-issues,total-joined-years&theme=galaxy,aurora,ocean&effect=wave&column=3&size=medium&p=10" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=joyccino&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=joyccino&theme=tokyonight" />
+  <img src="https://stats.pphat.top/graph?username=joyccino&animate=wave&theme=aurora" />
 </p>
+
 ---
 
 ### Contribution Snake
