@@ -38,7 +38,7 @@ My work explores how digital and computational approaches can support clinically
 
 <p align="center">
   <img
-    src="https://stats.pphat.top/stats?username=joyccino&theme=tokyonight&avatar_mode=radar&custom_title=Joycelyn%27s%20GitHub%20Stats&data_border_style=frame&data_border_frame=out&show_icons=true"
+    src="https://stats.pphat.top/stats?username=joyccino&theme=ocean,neon,inferno,matrix,solar,galaxy&padding=10&avatar_mode=radar&custom_title=Joycelyn%27s%20GitHub%20Stats&data_border_style=frame&data_border_frame=out&show_icons=true"
     alt="Joycelyn's GitHub Radar"
     width="1200"
   />
