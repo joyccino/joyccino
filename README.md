@@ -25,14 +25,6 @@ My work explores how digital and computational approaches can support clinically
 
 ---
 
-### Tech Stack
-
-<p align="center">
-  <img src="https://stats.pphat.top/icons?name=python,r,react,firebase,typescript,javascript,github&columns=7&size=medium&effect=glow" />
-</p>
-
----
-
 ### GitHub Activity
 
 
@@ -43,7 +35,9 @@ My work explores how digital and computational approaches can support clinically
     width="1200"
   />
 </p>
-
+<p align="center">
+  <img src="https://stats.pphat.top/icons?name=python,r,react,firebase,typescript,javascript,github&columns=7&size=medium&effect=glow" />
+</p>
 
 ---
 
