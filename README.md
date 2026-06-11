@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Soobeen Joycelyn Moon 👋</h1>
 
 <p align="center">
-  Neuroscience · Aging · SaMD · DTx · Human-AI Interaction
+  Neuroscience · Aging · SaMD · DTx · Human-Computer Interaction
 </p>
 
 <p align="center">
